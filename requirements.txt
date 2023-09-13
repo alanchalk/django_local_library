@@ -1,9 +1,9 @@
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1685243452975/work
-dj-database-url @ file:///home/conda/feedstock_root/build_artifacts/dj-database-url_1692119547398/work
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1693929744596/work
-gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1689781849114/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
-psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1694260154200/work/psycopg2-binary
-sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1681817562700/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
-whitenoise @ file:///home/conda/feedstock_root/build_artifacts/whitenoise_1686933972273/work
+asgiref==3.7.2
+dj-database-url==2.1.0
+Django==4.2.5
+gunicorn==21.2.0
+packaging==23.1
+psycopg2-binary==2.9.7
+sqlparse==0.4.4
+typing_extensions==4.7.1
+whitenoise==6.5.0
