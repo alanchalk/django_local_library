@@ -3,7 +3,6 @@ dj-database-url @ file:///home/conda/feedstock_root/build_artifacts/dj-database-
 Django @ file:///home/conda/feedstock_root/build_artifacts/django_1693929744596/work
 gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1689781849114/work
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
-psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1694260220656/work
 psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1694260154200/work/psycopg2-binary
 sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1681817562700/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
